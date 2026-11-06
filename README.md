@@ -1,3 +1,8 @@
+> **foxnaim** · Библиотека динамической диспетчеризации метрик и инструментирования для Erlang и Elixir
+>
+> Готовая основа под клиентский проект. Стек: Erlang.
+> Лицензия Apache-2.0 сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # Telemetry
 
 [![Codecov](https://codecov.io/gh/beam-telemetry/telemetry/branch/master/graphs/badge.svg)](https://codecov.io/gh/beam-telemetry/telemetry/branch/master/graphs/badge.svg)
